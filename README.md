@@ -7,9 +7,6 @@ Prerequisites
 2. Installing Dependencies
 This project is provided without the node_modules folder, so you'll need to install all the dependencies yourself. Follow these steps to install the dependencies:
 Open your command line interface.
-Navigate to the following directories:
-```/frontend/task-manager-app/```
-```/backend``
 3. Run the following command in each directory to install the dependencies:
 ```npm install``` 
 Starting the Application
